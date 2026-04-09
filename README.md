@@ -1,5 +1,5 @@
 # Footprinting-for-website-called-www.wiley.com
-# Footprinting of www.wiley.com
+------------------------------------------------
 
 ## Description
 This repository contains a study on website footprinting techniques applied to www.wiley.com. The purpose of this task is **educational and research-oriented**, focusing on gathering publicly available information without attempting unauthorized access or hacking.
